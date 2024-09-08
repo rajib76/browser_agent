@@ -1,0 +1,6 @@
+selenium
+openai
+python-dotenv
+requests
+streamlit
+PyPDF2
